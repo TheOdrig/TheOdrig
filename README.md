@@ -38,12 +38,13 @@ I am currently building private production software and keeping that source code
 ![MeiliSearch](https://img.shields.io/badge/MeiliSearch-FF5CAA?style=plastic&logo=meilisearch&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=jsonwebtokens&logoColor=white)
 
-### DevOps & Testing
+### DevOps, Observability & Testing
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=plastic&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=plastic&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=plastic&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=plastic&logo=grafana&logoColor=white)
+![Loki](https://img.shields.io/badge/Loki-F46800?style=plastic&logo=grafana&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=plastic&logo=junit5&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-252529?style=plastic&logo=vitest&logoColor=FCC72B)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=plastic&logo=playwright&logoColor=white)
@@ -54,11 +55,3 @@ I am currently building private production software and keeping that source code
 - Modular monoliths, Spring Modulith, REST API design, and secure auth flows
 - Next.js App Router, Feature-Sliced Design, API Proxy routing, and production frontend architecture
 - Product-oriented engineering: SEO, observability, performance monitoring, and real user feedback
-
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=TheOdrig&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=TheOdrig&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheOdrig&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
